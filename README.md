@@ -8,8 +8,6 @@
 
 - Home Credit Default Risk
 
-<br>
-
 #### Multi-class classification : Tabular data
 
 - Costa Rican Household Poverty Level Prediction
