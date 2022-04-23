@@ -12,9 +12,6 @@
 
 - Costa Rican Household Poverty Level Prediction
 
-#### Binary classification : Image classification
-
-- Statoil/C-CORE Iceberg Classifier Challenge
 
 
 #### Regression : Tabular data
@@ -32,3 +29,8 @@
 
 - Toxic Comment Classification Challenge
 
+#### Recommendation system
+
+- User Clustering for anime recommendation
+
+- Customer Segmentation
