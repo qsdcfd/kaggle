@@ -16,9 +16,6 @@
 
 - Statoil/C-CORE Iceberg Classifier Challenge
 
-#### Multi-class classification : Image classification
-
-- TensorFlow Speech Recognition Challenge
 
 #### Regression : Tabular data
 
@@ -26,9 +23,6 @@
 
 -  Zillow Prize: Zillow’s Home Value Prediction (Zestimate)
 
-#### Object segmentation : Deep learning
-
-- 2018 Data Science Bowl
 
 #### Natural language processing : classification, regression
 
@@ -38,8 +32,3 @@
 
 - Toxic Comment Classification Challenge
 
-#### Other dataset : anomaly detection, visualization
-
--  Credit Card Fraud Detection
-
-- Kaggle Machine Learning & Data Science Survey 2017
