@@ -12,7 +12,7 @@
 
 ### E-commerce dataset
 
-- Customer Segmentation
+- [Customer Segmentation](https://www.kaggle.com/code/fabiendaniel/customer-segmentation)
 
 <br>
 
