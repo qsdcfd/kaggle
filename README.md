@@ -1,6 +1,6 @@
-### Kaggle 필사
+## Kaggle 필사
 
-#### Binary classification : Tabular data
+### Binary classification : Tabular data
 
 - [Titanic: Machine Learning from Disaster](https://github.com/qsdcfd/kaggle/tree/TIL/Titanic)
 
@@ -8,29 +8,16 @@
 
 - [Home Credit Default Risk](https://github.com/qsdcfd/kaggle/tree/TIL/Home_Credit%20Default_Risk/Intro)
 
-#### Multi-class classification : Tabular data
+<br>
 
-- Costa Rican Household Poverty Level Prediction
+### E-commerce dataset
 
+- Customer Segmentation
 
+<br>
 
-#### Regression : Tabular data
-
--  New York City Taxi Trip Duration
-
--  Zillow Prize: Zillow’s Home Value Prediction (Zestimate)
-
-
-#### Natural language processing : classification, regression
-
-- Spooky Author Identification
-
--  Mercari Price Suggestion Challenge
-
-- Toxic Comment Classification Challenge
-
-#### Recommendation system
+### Recommendation system
 
 - User Clustering for anime recommendation
 
-- Customer Segmentation
+### NLP(전처리,임베딩,감성사전파트)
