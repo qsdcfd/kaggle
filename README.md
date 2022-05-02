@@ -8,18 +8,4 @@
 
 - [Home Credit Default Risk](https://github.com/qsdcfd/kaggle/tree/TIL/Home_Credit%20Default_Risk/Intro)
 
-<br>
 
-### E-commerce dataset
-
-- [Customer Segmentation](https://www.kaggle.com/code/fabiendaniel/customer-segmentation)
-
-<br>
-
-### Recommendation system
-
-- User Clustering for anime recommendation
-
-<br>
-
-### NLP(전처리,임베딩,감성사전파트)
